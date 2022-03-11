@@ -11,6 +11,7 @@
 6. main로부터 2개의 branch 생성: 마침
 7. branch_1에서 파일 수정 (2~3번 commit)
   첫째..
+  둘째.. 마침
 8. main에 merge 병합
 9. branch_2에서 파일 수정 (2~3번 commit / branch_1의 수정 내용과 달라야 함):
   첫째..
