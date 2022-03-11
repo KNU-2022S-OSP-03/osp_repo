@@ -4,3 +4,6 @@ hello world
 
 1st modified in branch_1
 2nd modified in branch_1
+
+1st modified in branch_2
+2nd modified in branch_2
