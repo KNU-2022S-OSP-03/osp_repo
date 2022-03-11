@@ -1,0 +1,40 @@
+2주차 과제
+
+<과제 1: github 기반 프로젝트 관리>
+
+1. github 계정 생성 (기존에 있는 사람들은 새로 생성 안해도 됨)
+2. 새로운 repository 생성
+3. 새로운 파일 추가 (로컬 -> 리모트)
+4. 로컬에서 파일 수정 (로컬 -> 리모트)
+5. 리모트에서 파일 수정 (리모트 -> 로컬)
+----------------------------------------------
+6. main로부터 2개의 branch 생성 
+7. branch_1에서 파일 수정 (2~3번 commit)
+8. main에 merge 병합
+9. branch_2에서 파일 수정 (2~3번 commit / branch_1의 수정 내용과 달라야 함) 
+10. main에 rebase 병합 
+
+
+- 작업과정마다 파일의 변경 내용이 명확히 구분되도록 수정
+  예) create file
+      (local) 1st modified 
+      (remote) 2nd modified  
+      --------------------------------------
+       branch_1 : 1st modified 
+       branch_1 : 2st modified 
+       branch_2 : 1st modified
+       branch_2 : 2st modified
+
+
+- LMS 제출:
+  . 개별 작업 repository URL 주소 작성 
+  . 레포트 내용: 작업한 내용들 캡쳐화면과 함께 설명 (특히 merge 와 rebase 차이점에 대해)
+
+<과제 2: "과제 1" 결과물을 브랜치로 다른 remote에 올리기>
+- GitHub organization에 해당하는 https://github.com/KNU-2022S-OSP-03 에 있는 저장소에 브랜치를 만들어서 해당 브랜치만 push
+
+1. https://github.com/KNU-2022S-OSP-03/osp_repo 저장소에 대한 remote를 과제1 결과인 로컬 저장소에서 "git remote" 명령어를 사용해 "추가"
+2. branch_[github ID] (예: branch_ianychoi-dev) 로 과제1 결과를 그대로 올릴 것
+
+- LMS 제출:
+  . 레포트 내용: 작업한 내용들 캡쳐화면과 함께 결과를 제출
