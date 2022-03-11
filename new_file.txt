@@ -1,2 +1,5 @@
 git text
+
 Hello World!
+
+2nd modification from remote
