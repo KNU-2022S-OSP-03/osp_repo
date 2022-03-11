@@ -3,3 +3,5 @@ git text
 Hello World!
 
 2nd modification from remote
+
+1st mod from b2
