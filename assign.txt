@@ -4,4 +4,5 @@ create file << local
 (remote) 2nd modified : Welcome Git!
 
 --------------------------------------
-branch_1 : 1st modified : Hello, branch!
+(local) branch_1 : 1st modified : Hello, branch_1!
+(remote) branch_1 : 2nd modified : Welcome branch_1!
