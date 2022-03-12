@@ -1,3 +1,4 @@
 create file << local
 
 (local) 1st modified : Hello, Git!
+(remote) 2nd modified : Welcome Git!
