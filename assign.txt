@@ -7,3 +7,5 @@ create file << local
 (local) branch_1 : 1st modified : Hello, branch_1!
 (remote) branch_1 : 2nd modified : Welcome branch_1!
 (local) branch_1 : 3rd modified : Goodbye branch_1!
+
+branch_2 : 1st modified
