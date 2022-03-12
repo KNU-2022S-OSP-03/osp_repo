@@ -2,3 +2,4 @@ create file
 modified in local repository
 modified in remote repository
 branch_2 : 1st modified
+branch_2 : 2nd modified
