@@ -2,5 +2,4 @@ new file
 (local) 1st modified
 (remote) 2st modified
 
-(branch f_02 local) 1st modified
-(branch f_02 remote) 2st modified 
+(branch f_01 local) 1st modified
