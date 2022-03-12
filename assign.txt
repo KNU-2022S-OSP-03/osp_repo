@@ -1,1 +1,3 @@
 create file << local
+
+(local) 1st modified : Hello, Git!
