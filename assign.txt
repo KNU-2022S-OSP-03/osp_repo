@@ -9,3 +9,4 @@ create file << local
 (local) branch_1 : 3rd modified : Goodbye branch_1!
 
 branch_2 : 1st modified
+branch_2 : 2nd modified : Goodbye Hello
