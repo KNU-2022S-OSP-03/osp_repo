@@ -6,3 +6,4 @@ create file
 (local) 1st branch mod!
 (remote) 2nd branch mod!
 (local) 1st branch2 mod!
+(remote) 2nd branch2 mod!
