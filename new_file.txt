@@ -4,3 +4,4 @@ create file
 (remote)2nd modified
 
 (local) 1st branch mod!
+(remote) 2nd branch mod!
