@@ -1,1 +1,2 @@
 first modified - in local
+and this is second modified - in remote
