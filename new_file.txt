@@ -4,3 +4,4 @@ test
 branch f1_test #1
 branch f1_test #2
 f2_test #1 modified
+f2_test #2 modified
