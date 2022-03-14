@@ -5,3 +5,5 @@
 5. remote modified!
 
 7-1. branch_1 first modified
+
+7-2. branch_1 second modified
