@@ -4,4 +4,10 @@
 
 5. remote modified!
 
+<<<<<<< HEAD
 6-1.at main modified
+=======
+7-1. First commit!
+
+7-2. Second commit!
+>>>>>>> branch_1
