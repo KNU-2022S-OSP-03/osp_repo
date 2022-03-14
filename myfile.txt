@@ -2,3 +2,6 @@ Hello!
 
 local) modified 1
 remote) modified 2
+
+
+branch_2 : rose @}-- // 1st
