@@ -6,3 +6,6 @@ remote) modified 2
 
 branch_2 : rose @}-- // 1st
 branch_2 : snail "@... // 2nd
+=======
+branch_1: Good! :)  // 1st
+
