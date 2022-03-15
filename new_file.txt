@@ -2,3 +2,4 @@ create file
 
  
 (local) 1st modified
+(remote) 2nd modified
