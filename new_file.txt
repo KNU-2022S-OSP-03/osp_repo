@@ -1,5 +1,0 @@
-Welcome git test class
-
-hello, world!!
-
-I am editing on github.com
