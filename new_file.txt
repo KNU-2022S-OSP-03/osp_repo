@@ -1,3 +1,9 @@
-new new new
-test test test
-git text
+Hello, world!
+1st modified(local)
+2nd modified(remote)
+
+branch_1 : 1st modified
+branch_1 : 2nd modified
+
+branch_2 : 1st modified
+branch_2 : 2nd modified
