@@ -5,4 +5,4 @@ create file
 
 -----------------------------
 branch_1 : 1st modified (local)
-
+branch_1 : 2nd modified (remote)
