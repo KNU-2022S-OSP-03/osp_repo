@@ -3,3 +3,4 @@ Created File
 (remote) 2nd modified
 ----------------------------------
 branch_1 : 1st modified (local)
+branch_1 : 2nd modified (remote)
