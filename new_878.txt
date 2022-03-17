@@ -2,3 +2,5 @@
 
 2 : 1st modified (local)
 3 : 2nd modified (remote)
+
+4 : 1st modified (branch_1, local)
