@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+step7-1:branch_1's 2nd modified
+step7:branch_1's 1st modified
+-------------------------------
+=======
+step9:file creation in branch_2
+--------------------------------
+>>>>>>> file updated
+step5:file modification in remote
+step4:file modification in local
+step3:create new file
