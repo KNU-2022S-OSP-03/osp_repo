@@ -8,3 +8,4 @@
 
 
 6 : 1st modified (branch_2, local)
+7 : 2nd modified (branch_2, remote)
